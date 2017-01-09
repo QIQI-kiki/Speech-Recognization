@@ -1,0 +1,20 @@
+﻿  CSpeechRecognition.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\sphelper.h(1319): warning C4996: 'GetVersionExA': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(433): note: see declaration of 'GetVersionExA'
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Stenotypist.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\sphelper.h(1319): warning C4996: 'GetVersionExA': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(433): note: see declaration of 'GetVersionExA'
+stenotypist\Stenotypist.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\afxwin.h(5224): note: see declaration of 'CWinApp::Enable3dControls'
+  StenotypistDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\sphelper.h(1319): warning C4996: 'GetVersionExA': was declared deprecated
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(433): note: see declaration of 'GetVersionExA'
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  yuyin.vcxproj -> C:\Msj File\code\编程\yuyinshibie\Debug\yuyin.exe
+  yuyin.vcxproj -> Debug\yuyin.pdb (Full PDB)
